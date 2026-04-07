@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This repository has been retired.** Claude is already a reasoning model with strong built-in thinking capabilities, making this project no longer necessary. Thank you to everyone who contributed and supported Thinking Claude!
+
 # Thinking Claude
 
 Let Claude think comprehensively before responding!
